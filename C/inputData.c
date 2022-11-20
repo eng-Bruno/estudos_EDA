@@ -7,6 +7,6 @@ int main()
 	printf("\nDigite um número: ");
 	scanf("%d", &num);
 
-	printf("\n%d\n", num);
+	printf("\nO valor da variável 'num' é: %d\n", num);
 	return 0;
 }
