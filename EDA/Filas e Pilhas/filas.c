@@ -4,7 +4,7 @@
 struct Pessoa
 {
 	int senha;
-	struct pessoa *prox;
+	struct Pessoa *prox;
 };
 
 typedef struct pessoa Pessoa;
